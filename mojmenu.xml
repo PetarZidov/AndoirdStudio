@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/prikaziUnos"
+        android:title="Prikaži uneseno" />
+    <item
+        android:id="@+id/obrisiUnos"
+        android:title="Obriši uneseno" />
+    <item
+        android:id="@+id/prikaziFotke"
+        android:title="Prikazi fotografije" />
+    <item
+        android:id="@+id/webPregled"
+        android:title="Web Preglednik" />
+    <item
+        android:id="@+id/uninWeb"
+        android:title="Web UNIN" />
+    <item
+        android:id="@+id/listView"
+        android:title="List View" />
+
+</menu>

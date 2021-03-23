@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/WebAdrese"
+        android:title="Popis adresa" />
+    <item
+        android:id="@+id/Webpopis"
+        android:title="Web popis" />
+    <item
+        android:id="@+id/obrisiAdrese"
+        android:title="Brisanje popisa" />
+
+
+</menu>
